@@ -6,7 +6,7 @@ How to use it
 
 bower install angular-toastr#0.5.2
 
-bower install angular-errors-on-toast
+Download this package (I'll put it on bower shortly)
 
 
 Change exceptionHandler.js
