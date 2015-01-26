@@ -25,3 +25,4 @@ I can do a lot more with this. Please let me know if you are interested.
 
 Requires:
 Angular 1.3
+angular-toastr 0.5.2
