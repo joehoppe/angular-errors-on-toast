@@ -22,3 +22,6 @@ In errorsOnToast.js, change the array of allowedURLs to have the correct URL(s).
 
 
 I can do a lot more with this. Please let me know if you are interested.
+
+Requires:
+Angular 1.3
