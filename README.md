@@ -1,5 +1,5 @@
 # angular-errors-on-toast
-Angular module that displays JavaScript window.onerror errors to the end user using toastr. Only displays the message if the URL is localhost, so that it doesn't impact your QA or production users.
+Angular module that displays JavaScript window.onerror errors (runtime erros) to the end user using toastr. Only displays the message if the URL is localhost, so that it doesn't impact your QA or production users.
 
 How to use it
 bower install angular-toastr#0.5.2
