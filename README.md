@@ -10,7 +10,7 @@ Then I then thought of Toaster (https://github.com/CodeSeven/toastr). It's a gre
 <strong>Angular-Errors-On-Toast</strong> is my Angular module solution.  
 
 <h2>Audience</h2>
-Will my end users see these messages? No. It's configured to  display these errors onlywhen the domain is localhost. I'll make this configurable in the future. You can modify the source code in the meantime.
+Will my end users see these messages? No. It's configured to  display these errors only when the domain is localhost. I'll make this configurable in the future. You can modify the source code in the meantime.
 
 <h2>How to get it</h2>
 <ol>
@@ -39,17 +39,17 @@ In errorsOnToast.js, change the array of allowedURLs to have the correct URL(s).
 var allowedUrls = ["localhost", "example.com"];
 ```
 
-I can do a lot more with this. Please let me know if you are interested.
-
-
-Requires:
+<h3>Requires</h3>
 <ol>
   <li>Angular 1.3</li>
   <li>angular-toastr 0.5.2</li>
 
-What's it look like?
+<h2>What's it look like?</h2>
 This briefly flashes in the corner of the window before going away. 
 ![alt tag](https://raw.githubusercontent.com/joehoppe/angular-errors-on-toast/master/readme/error.PNG)
 
 
-License: MIT
+<h2>License</h2>
+MIT
+
+I can do a lot more with this. Please let me know if you are interested.
