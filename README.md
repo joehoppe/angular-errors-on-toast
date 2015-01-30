@@ -43,6 +43,7 @@ var allowedUrls = ["localhost", "example.com"];
 <ol>
   <li>Angular 1.3</li>
   <li>angular-toastr 0.5.2</li>
+</ol>
 
 <h2>What's it look like?</h2>
 This briefly flashes in the corner of the window before going away. 
