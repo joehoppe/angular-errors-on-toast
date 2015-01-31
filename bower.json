@@ -1,0 +1,28 @@
+{
+  "name": "angular-errors-on-toast",
+  "version": "0.1",
+  "homepage": "https://github.com/joehoppe/angular-errors-on-toast",
+  "authors": [
+    "Joe Hoppe <jhoppe@gmail.com>"
+  ],
+  "description": "Angular module that pops a Toastr when $window.onerror fires",
+  "main": "errorsOnToast.min.js",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "Angular",
+    "AngularJS",
+    "Toastr",
+    "$window.onerror",
+    "window.onerror"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
