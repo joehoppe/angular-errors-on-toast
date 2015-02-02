@@ -3,7 +3,7 @@
   "version": "0.1",
   "homepage": "https://github.com/joehoppe/angular-errors-on-toast",
   "authors": [
-    "Joe Hoppe <jhoppe@gmail.com>"
+    "Joe Hoppe <josephhoppe@live.com>"
   ],
   "description": "Angular module that pops a Toastr when $window.onerror fires",
   "main": "errorsOnToast.min.js",
