@@ -5,7 +5,7 @@ I thought, can I use window.onerror to let me know that there are JavaScript run
 
 I could use an alert() box, but those are obtrusive and annoying. 
 
-Then I then thought of [Toaster](https://github.com/CodeSeven/toastr). It's a great library that flashes a message in a preconfigured corner of the window. The message briefly appears before going away.
+Then I then thought of using [Toaster](https://github.com/CodeSeven/toastr). It's a great library that flashes a message in a preconfigured corner of the window. The message briefly appears before going away.
 
 <strong>Angular-Errors-On-Toast</strong> is my Angular module solution.  
 
@@ -46,6 +46,7 @@ var allowedUrls = ["localhost", "example.com"];
 
 <h2>What does it look like?</h2>
 This briefly flashes in the corner of the window before going away. 
+<br />
 ![alt tag](https://raw.githubusercontent.com/joehoppe/angular-errors-on-toast/master/readme/error.PNG)
 
 
