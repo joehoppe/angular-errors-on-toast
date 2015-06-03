@@ -1,7 +1,7 @@
 # angular-errors-on-toast
 Ever forget to open the console window while developing JavaScript? I know it's a cardinal sin, but once and a while I forget. I'm human. 
 
-I thought, can I use window.onerror to let me know that there are JavaScript runtime errors, in case I forget to open the console? 
+I wondered: can I use window.onerror to let me know that there are JavaScript runtime errors, in case I forget to open the console? 
 
 I could use an alert() box, but those are obtrusive and annoying. 
 
