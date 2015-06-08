@@ -41,7 +41,7 @@ var allowedUrls = ["localhost", "example.com"];
 <h3>Requires</h3>
 <ol>
   <li>Angular 1.3</li>
-  <li>angular-toastr 0.5.2</li>
+  <li>angular-toastr 0.1</li>
 </ol>
 
 <h2>What does it look like?</h2>
