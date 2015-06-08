@@ -14,7 +14,7 @@ Will my end users see these messages? No. It's configured to  display these erro
 
 <h2>How to get it</h2>
 <ol>
-  <li>bower install angular-errors-on-toast#0.5.2</li>
+  <li>bower install angular-errors-on-toast#0.1</li>
   <li>Change exceptionHandler.js</li>
 </ol>
 
