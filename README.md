@@ -19,13 +19,11 @@ Will my end users see these messages? No. It's configured to  display these erro
 </ol>
 
 <h2>How to set it up</h2>
-Replace "app" with the name of your AngularJS application. If you have more than one, duplicate the code multiple times.
+Replace "app" with the name of your AngularJS application. 
+
 I.e.:
 ```
   angular.module("app1").factory("$exceptionHandler", function ($injector) {
-    ...
-  });
-  angular.module("app2").factory("$exceptionHandler", function ($injector) {
     ...
   });
 ```
